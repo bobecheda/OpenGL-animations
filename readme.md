@@ -24,9 +24,11 @@ The goal of this assignment is to showcase understanding of basic animation conc
 - Demonstrates **scaling transformation**.
 
 🎥 Video Demo:
-<video width="600" controls>
-  <source src="../visuals/pulsing_square.mp4" type="video/mp4">
-</video>
+
+
+
+https://github.com/user-attachments/assets/61234440-a564-47f1-863b-43ac233aa94e
+
 
 
 ---
@@ -36,9 +38,11 @@ The goal of this assignment is to showcase understanding of basic animation conc
 - Demonstrates **rotation transformation**.
 
 🎥 Video Demo:
-<video width="600" controls>
-  <source src="../visuals/rotating_windmill.mp4" type="video/mp4">
-</video>
+
+
+
+
+https://github.com/user-attachments/assets/69a7eeb4-9a86-4a29-a866-eec270f7ce32
 
 
 ---
@@ -48,9 +52,11 @@ The goal of this assignment is to showcase understanding of basic animation conc
 - Demonstrates **translation and collision detection**.
 
 🎥 Video Demo:
-<video width="600" controls>
-  <source src="bouncing_ball.mp4" type="video/mp4">
-</video>
+
+
+
+https://github.com/user-attachments/assets/d3cf8561-da51-43cb-a20c-4869cf08f77b
+
 
 
 ---
@@ -63,9 +69,11 @@ The goal of this assignment is to showcase understanding of basic animation conc
   - Rotation (wheel motion)
 
 🎥 Video Demo:
-<video width="600" controls>
-  <source src="../visuals/moving_car.mp4" type="video/mp4">
-</video>
+
+
+
+https://github.com/user-attachments/assets/36335bdd-8a32-4d4c-8212-c24a401072b1
+
 
 
 ---
