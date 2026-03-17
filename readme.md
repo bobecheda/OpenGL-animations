@@ -49,7 +49,7 @@ The goal of this assignment is to showcase understanding of basic animation conc
 
 🎥 Video Demo:
 <video width="600" controls>
-  <source src="../visuals/bouncing_ball.mp4" type="video/mp4">
+  <source src="bouncing_ball.mp4" type="video/mp4">
 </video>
 
 
