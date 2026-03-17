@@ -19,8 +19,8 @@ int main()
     float wheelAngle = 0.0f;
     float sunAngle = 0.0f;
 
-    float cloudX1 = -1.0f;   // ✅ NEW
-    float cloudX2 = 0.5f;    // ✅ NEW
+    float cloudX1 = -1.0f;   
+    float cloudX2 = 0.5f;    
 
     while (!glfwWindowShouldClose(window))
     {
@@ -31,14 +31,14 @@ int main()
         wheelAngle -= 5.0f;
         sunAngle += 1.0f;
 
-        cloudX1 += 0.0002f;   // ✅ NEW
-        cloudX2 += 0.00015f;  // ✅ NEW
+        cloudX1 += 0.0002f;   
+        cloudX2 += 0.00015f;  
 
         if (carX > 1.2f)
             carX = -1.2f;
 
-        if (cloudX1 > 1.2f) cloudX1 = -1.2f;   // ✅ NEW
-        if (cloudX2 > 1.2f) cloudX2 = -1.2f;   // ✅ NEW
+        if (cloudX1 > 1.2f) cloudX1 = -1.2f;   
+        if (cloudX2 > 1.2f) cloudX2 = -1.2f;   
 
         // 🔹 Draw road line
         glBegin(GL_LINES);
